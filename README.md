@@ -8,9 +8,9 @@
 
 🌱 **I’m currently learning:**
     **<br>-JavaScript</br>**
-    **<br>-MySQL</br>**
-    **<br>-Quantum NLP Basics</br>**
-    **<br>-Foundations of Cybersecurity</br>**
+    **-MySQL**
+    **-Quantum NLP Basics**
+    **-Foundations of Cybersecurity**
     
 
 <h3 align="left">Connect with me:</h3>
