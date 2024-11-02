@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Juanito M. Ramos II</h1>
-<--h3 align="center">A computer engineering student who has a lot of skill issues, but is always willing to learn and improve.</h3-->
+<h3 align="center">A computer engineering student who has a lot of skill issues, but is always willing to learn and improve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juaaanits&label=Profile%20views&color=0e75b6&style=flat" alt="juaaanits" /> </p>
 
