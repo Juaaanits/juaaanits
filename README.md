@@ -1,16 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Juanito M. Ramos II</h1>
-<!--h3 align="center">An aspiring Data Engineer and Backend Developer</h3-->
+<--h3 align="center">A computer engineering student who has a lot of skill issues, but is always willing to learn and improve.</h3-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juaaanits&label=Profile%20views&color=0e75b6&style=flat" alt="juaaanits" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juaaanits" alt="juaaanits" /></a> </p>
 
 🌱 **I’m currently learning:**
-    **<br>-JavaScript</br>**
-    **<br>-MySQL</br>**
-    **<br>-Quantum NLP Basics</br>**
-    **<br>-Foundations of Cybersecurity</br>**
+    **<br>-Data Analytics Tools(Excel and SQL)</br>**
+    **<br>-Frontend Development Basics</br>**
+    **<br>-Cybersecurity and Networking</br>**
     
 
 <h3 align="left">Connect with me:</h3>
