@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Juanito M. Ramos II</h1>
 <h3 align="center">A computer engineering student who has a lot of skill issues, but is always willing to learn and improve.</h3>
+<h3 align="center">I always dedicate my time to exploring the fields of Data Analytics, Networks and Security, and Web Development by taking online courses, certifications, and making pet projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juaaanits&label=Profile%20views&color=0e75b6&style=flat" alt="juaaanits" /> </p>
 
