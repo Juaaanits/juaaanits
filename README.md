@@ -9,8 +9,8 @@
 
 🌱 **I’m currently taking:**
 
-    **<br>DevNet Associate</br>**
-    **<br>CyberOps Associate</br>**
+    **<br>-DevNet Associate</br>**
+    **<br>-CyberOps Associate</br>**
     
 
 <h3 align="left">Connect with me:</h3>
