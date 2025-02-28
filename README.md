@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Juanito M. Ramos II and I'm a computer engineering student interested in Security Operations Center Analyst Path and Data Analytics.</h2>
 
 ###
 
@@ -25,6 +25,19 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="30" alt="tf logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="12" />
+
+  
+  
 </div>
 
 ###
