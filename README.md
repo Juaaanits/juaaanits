@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juaaanits" alt="juaaanits" /></a> </p>
 
-🌱 **I’m currently learning:**
-    **<br>-CentOS Linux</br>**
-    **<br>-Big Data Fundamentals</br>**
-    **<br>-Servers and Networks</br>**
+🌱 **I’m currently taking:**
+
+    **<br>DevNet Associate</br>**
+    **<br>CyberOps Associate</br>**
     
 
 <h3 align="left">Connect with me:</h3>
