@@ -31,19 +31,23 @@ I'm a **Computer Engineering student** passionate about **Security Operations Ce
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" height="30" alt="RedHat" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" height="30" alt="NumPy" />
+  <img width="12" />
 </div>
 
 ---
 
 ### 📫 Connect with Me  
-
 <div align="left">
-  <a href="your-discord-link"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" /></a>
-  <a href="your-gmail-link"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="your-linkedin-link"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/juanitoramos">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100008915822305">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
 </div>
-
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
 
