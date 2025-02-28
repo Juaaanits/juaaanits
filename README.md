@@ -44,7 +44,7 @@ I'm a **Computer Engineering student** passionate about **Security Operations Ce
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100008915822305">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
   </a>
 </div>
 ---
