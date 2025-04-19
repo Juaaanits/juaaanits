@@ -17,7 +17,7 @@
 </div> 
 
 ### 🤓 Who?
-I'm a **Computer Engineering student** passionate about **Security Operations Center (SOC) Analysis** and **Data Analytics**. I enjoy exploring cybersecurity and data analytics fields.
+I'm a **Computer Engineering student**, currently a **Systems Engineer**, with a strong interest in various **Information and Technology fields**. I am currently exploring **Agentic Artificial Intelligence (A0) Development**, **Machine Learning**, and **Technology Infrastructure** fields.
 
 ### 💻 Languages and Tools
 <div align="center">
