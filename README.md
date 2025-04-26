@@ -31,7 +31,6 @@ I'm a **Computer Engineering student**, currently a **Systems Engineer**, with a
   <span><img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" height="27px"></span>
   <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="27px"></span>
   <span><img src="https://img.shields.io/badge/-Linux-grey?logo=linux" height="27px"/></span>
-  <span><img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white" height="27px"></span>
   <span><img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="27px"></span>
   <span><img src="https://shields.io/badge/BeautifulSoup-4-green" height="27px"/></span>
   <span><img src="https://img.shields.io/badge/power-bi-yellow?logoColor=yellow&labelColor=yellow&color=black" height="27px"></span>
