@@ -17,7 +17,7 @@
 </div> 
 
 ### 🤓 Who?
-I'm a **Computer Engineering student**, currently a **Systems Engineer**, with a strong interest in various **Information and Technology fields**. I am currently exploring **Backend Development**, **Data Engineering**, and **Technology Infrastructure** fields.
+I'm a **Computer Engineering student**, currently a **System Engineer**, with a strong interest in various **Information and Technology fields**. I am currently exploring **Backend Development**, **DevOps Tools**, and **Technology Infrastructure**.
 
 ### 💻 Languages and Tools
 <div align="center">
