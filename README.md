@@ -9,6 +9,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/juanitoramos/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white%22%20height=%2225" />
   </a>
+  <a target="_blank" href="https://juanito-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 <br>
 
@@ -17,7 +20,7 @@
 </div> 
 
 ### 🤓 Who?
-I'm a **Computer Engineering student** and currently a **System Engineer**. I'm passionate about various **Information and Technology fields** and am actively diving deep into **Backend Development**, **DevOps Tools**, and **Technology Infrastructure**. My goal is to build robust and scalable systems.
+I'm a **Computer Engineering enthusiast/graduate** and currently a **System Engineer**. I'm passionate about various **Information and Technology fields** and am actively diving deep into **Backend Development**, **DevOps Tools**, and **AI Engineering**. My goal is to build robust and scalable systems.
 
 ### 💻 Languages and Tools
 <div align="center">
