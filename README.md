@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white%22%20height=%2225" />
   </a>
   <a target="_blank" href="https://juanito-portfolio-website.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-juanito--portfolio--website.vercel.app-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 </div>
 <br>
 
