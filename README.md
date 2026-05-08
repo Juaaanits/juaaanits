@@ -20,7 +20,7 @@
 </div> 
 
 ### 🤓 Who?
-I'm a **Computer Engineering enthusiast/graduate** and currently a **System Engineer**. I'm passionate about various **Information and Technology fields** and am actively diving deep into **Backend Development**, **DevOps Tools**, and **AI Engineering**. My goal is to build robust and scalable systems.
+Aspiring Cloud and DevOps-Oriented Software Engineer with a strong interest in AI/ML integration and scalable systems.
 
 ### 💻 Languages and Tools
 <div align="center">
