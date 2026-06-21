@@ -22,7 +22,7 @@ System Engineer focused on cloud infrastructure, backend systems, and database-d
 
 Currently expanding into AI and cloud-native engineering through hands-on experience in:
 
-- AI/ML Engineering (Part-time volunteer work)
+- AI/ML Engineering (Part-time work)
 - Backend AI Engineering Internship (incoming)
 - Full-stack freelance development (Vue.js + Laravel)
 - Enterprise system engineering (SQL Server + Azure-based infrastructure)
