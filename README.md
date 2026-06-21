@@ -50,7 +50,7 @@ Python • JavaScript • TypeScript • PHP • SQL • Java • C++
 ---
 
 ### Full-Stack Development
-React • Next.js • Astro • Node.js • Express.js • Laravel • FastAPI • Flask • NestJS • React Native 
+React • Vue • Next.js • Astro • Node.js • Express.js • Laravel • FastAPI • Flask • NestJS • React Native 
 
 ---
 
