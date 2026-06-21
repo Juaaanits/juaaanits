@@ -45,12 +45,12 @@ Currently expanding into AI and cloud-native engineering through hands-on experi
 ## 🛠 Tech Stack
 
 ### Programming Languages
-Python • JavaScript • TypeScript • SQL • Java • C++
+Python • JavaScript • TypeScript • PHP • SQL • Java • C++
 
 ---
 
 ### Full-Stack Development
-React • Next.js • Astro • Node.js • Express.js • FastAPI • Flask • NestJS • React Native
+React • Next.js • Astro • Node.js • Express.js • Laravel • FastAPI • Flask • NestJS • React Native 
 
 ---
 
