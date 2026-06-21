@@ -55,7 +55,7 @@ React • Vue • Next.js • Astro • Node.js • Express.js • Laravel • F
 ---
 
 ### AI / Machine Learning & Data Engineering
-PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas • LLM Integration • OCR Pipelines • Power BI • Matplotlib
+PyTorch • TensorFlow • Azure AI Foundry • Scikit-learn • NumPy • Pandas • LLM Integration • OCR Pipelines • Power BI • Matplotlib 
 
 ---
 
@@ -65,7 +65,7 @@ PostgreSQL • MySQL • SQL Server • MongoDB • Supabase • Firebase
 ---
 
 ### Cloud / DevOps / Systems
-AWS • Azure (Azure AI Foundry) • Docker • Terraform • Linux • Git • Grafana • OpenShift • Cisco Networking
+AWS • Azure • Ansible • Docker • Terraform • Linux • Git • Grafana • OpenShift • Cisco Networking
 
 ---
 
