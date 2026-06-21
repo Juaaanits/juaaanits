@@ -37,7 +37,7 @@ Currently expanding into AI and cloud-native engineering through hands-on experi
 - ☁️ Preparing for AWS Certified Solutions Architect (SAA)
 - 🤖 AI/ML engineering (applied projects & LLM integration)
 - 🔧 Backend AI Engineering Internship (upcoming)
-- 💼 Full-time System Engineer (Cloud + SQL Server + Azure systems)
+- 💼 Full-time System Engineer (SQL Server + Azure Cloud systems)
 - 🌐 Freelance Full-Stack Development (Vue + Laravel)
 
 ---
