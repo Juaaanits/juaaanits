@@ -39,10 +39,7 @@ Currently expanding into AI and cloud-native engineering through hands-on experi
 ## `$ git log --author=Juaaanits --stat`
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juaaanits&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juaaanits&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&text_color=c9d1d9" />
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Juaaanits&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" alt="GitHub Streak" />
 
