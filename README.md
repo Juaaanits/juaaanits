@@ -32,8 +32,6 @@ Currently expanding into AI and cloud-native engineering through hands-on experi
 
 ---
 
----
-
 <div align="center">
 
 ## `$ git log --author=Juaaanits --stat`
