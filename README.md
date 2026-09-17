@@ -152,10 +152,36 @@ PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Azure AI • LL
 
 ## 🏅 Certifications
 
-* **Microsoft Certified: Azure Fundamentals (AZ-900)** — September 2025
-* **AWS Certified AI Practitioner** — August 2026
-* **AWS Certified Cloud Practitioner** — September 2026
-* **AWS Certified Solutions Architect – Associate (SAA-C03)** — Preparing
+- **AWS Certified Cloud Practitioner** — Amazon Web Services, Sep 2026
+- **AWS Certified AI Practitioner** — Amazon Web Services, Aug 2026
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft, Oct 2025
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — Oracle, Oct 2025
+- **Data Engineer Associate** — DataCamp, Jan 2026
+
+---
+
+## 📚 Selected Technical Training
+
+- **Google Cybersecurity Certificate** — Google
+- **DevOps Essentials** — Google Cloud Skills Boost
+- **CyberOps Associate** — Cisco Networking Academy
+- **DevNet Associate** — Cisco Networking Academy
+- **Enterprise Networking, Security, and Automation** — Cisco Networking Academy
+- **Switching and Routing Essentials** — Cisco Networking Academy
+- **Gremlin Enterprise Chaos Engineering Certification** — Gremlin
+- **AWS Solutions Architecture Job Simulation** — Forage
+
+<details>
+<summary><strong>Additional Training</strong></summary>
+
+<br>
+
+- Google IT Support
+- Data Analysis with Python — freeCodeCamp
+- AWS AI Practitioner Challenge — Udacity
+- Introduction to Cybersecurity — Cisco
+
+</details>
 
 ---
 
