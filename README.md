@@ -50,19 +50,21 @@ I also have a background in backend development, AI/ML engineering, and database
 
 ## 🚀 Featured Engineering Projects
 
-### ☸️ K3s DevSecOps & Observability Homelab
+### ☸️ [K3s DevSecOps & Observability Homelab](https://github.com/Juaaanits/homelab)
 
 A Kubernetes platform engineering homelab running on repurposed hardware with:
 
 `k3s` • `Prometheus` • `Grafana` • `Alertmanager` • `node-exporter` • `Traefik` • `Python`
 
-Current work includes Kubernetes networking, persistent storage, custom application metrics, alerting, failure testing, workload hardening, and troubleshooting.
+Current work includes Kubernetes networking, persistent storage, custom application metrics, alerting, controlled failure testing, workload hardening, and troubleshooting.
 
 **Next phases:** Helm → GitHub Actions → Trivy → GHCR → Argo CD → Kyverno → Sealed Secrets → Terraform
 
+🔗 **[View Repository](https://github.com/Juaaanits/homelab)**
+
 ---
 
-### 🔐 Secure Container Supply Chain Pipeline
+### 🔐 [Secure Container Supply Chain Pipeline](https://github.com/Juaaanits/security-container-delivery-pipeline)
 
 A practical DevSecOps workflow demonstrating:
 
@@ -70,9 +72,11 @@ A practical DevSecOps workflow demonstrating:
 
 Includes secret detection, container builds, vulnerability scanning, severity-based security gates, security reporting, remediation validation, and automated notifications.
 
+🔗 **[View Repository](https://github.com/Juaaanits/security-container-delivery-pipeline)**
+
 ---
 
-### ☁️ Secure AWS Static Web Platform with Terraform
+### ☁️ [Secure AWS Static Web Platform with Terraform](https://github.com/Juaaanits/Automated-AWS-Web-Hosting-with-Terraform)
 
 Infrastructure as Code project provisioning a secure AWS static web architecture using:
 
@@ -80,19 +84,23 @@ Infrastructure as Code project provisioning a secure AWS static web architecture
 
 Current improvements focus on Terraform state management, infrastructure security scanning, IAM, and deployment automation.
 
+🔗 **[View Repository](https://github.com/Juaaanits/Automated-AWS-Web-Hosting-with-Terraform)**
+
 ---
 
-### 🧪 .NET Backend Reliability, DevSecOps & Azure Lab
+### 🧪 [.NET Backend Reliability, DevSecOps & Azure Lab](https://github.com/Juaaanits/sakenny-backend-qa-devsecops-cloud-lab)
 
-Engineering extension of an existing .NET backend focused on:
+Engineering extension of an MIT-licensed .NET 8 backend focused on:
 
 `.NET 8` • `SQL Server` • `Docker` • `xUnit` • `Postman/Newman` • `CodeQL` • `Trivy` • `Dependabot` • `Terraform` • `Azure`
 
 The project combines backend testing, QA, vulnerability scanning, database validation, containerization, observability, and cloud infrastructure work.
 
+🔗 **[View Repository](https://github.com/Juaaanits/sakenny-backend-qa-devsecops-cloud-lab)**
+
 ---
 
-### 🧠 CerebraSense Cloud ML Inference Platform
+### 🧠 [CerebraSense Cloud ML Inference Platform](https://github.com/Juaaanits/Cerebrasense-Web)
 
 Cloud-deployed MRI classification application using:
 
@@ -100,11 +108,13 @@ Cloud-deployed MRI classification application using:
 
 The system separates frontend, API, ML inference, database, and object-storage responsibilities while maintaining prediction history and calibrated model results.
 
+🔗 **[View Repository](https://github.com/Juaaanits/Cerebrasense-Web)**
+
 ---
 
 ### 🛡️ Web Application Attack & Defense Lab
 
-**In development**
+**🚧 In Development**
 
 Application-security homelab focused on understanding attack and defensive controls using:
 
@@ -112,6 +122,7 @@ Application-security homelab focused on understanding attack and defensive contr
 
 Planned validation includes controlled SQL injection testing, WAF detection, rate limiting, custom rules, security event logging, legitimate-traffic testing, and before/after security evidence.
 
+> Repository will be published once the first working and documented lab version is complete.
 ---
 
 ## 🛠️ Technical Stack
