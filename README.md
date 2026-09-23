@@ -112,20 +112,16 @@ The system separates frontend, API, ML inference, database, and object-storage r
 
 ---
 
-# 🛡️ Web Application Security & WAF Lab
+### 🛡️ [Web Application Security & WAF Lab](https://github.com/Juaaanits/web-app-security-waf-lab)
 
-**🚧 In Development**
+A practical web application security homelab focused on understanding how attacks move through a web application stack and how defensive controls detect, block, and log malicious traffic.
 
-A practical web application security homelab for understanding, testing, and documenting both offensive and defensive web-security controls.
+`SafeLine WAF` • `Kali Linux` • `Ubuntu` • `DVWA` • `Apache` • `MySQL` • `TLS`
 
-### 🧰 Stack
+**Focus areas:**
 
-`SafeLine WAF` • `Kali Linux` • `Ubuntu Server` • `DVWA` • `Apache` • `MySQL` • `TLS`
-
-### 🔬 Current Focus
-
-- Reverse-proxy and WAF deployment
-- TLS-protected application traffic
+- WAF deployment and reverse-proxy architecture
+- TLS termination and HTTPS traffic inspection
 - Controlled SQL injection and web-attack testing
 - WAF detection and blocking
 - Security event logging and analysis
@@ -133,8 +129,30 @@ A practical web application security homelab for understanding, testing, and doc
 - Legitimate-traffic validation
 - Direct-backend bypass testing
 - Security hardening
-- Before/after security evidence
 - Root-cause analysis and troubleshooting
+
+### Architecture
+
+```text
+Kali Linux
+    │
+    │ HTTPS :8443
+    ▼
+SafeLine WAF
+    │
+    │ HTTP :8080
+    ▼
+Apache / DVWA
+    │
+    ▼
+MySQL
+```
+
+The lab runs alongside an existing `k3s + Traefik` environment, providing additional hands-on experience with reverse-proxy routing, TLS, listener conflicts, and troubleshooting in a shared homelab.
+
+🔗 **[View Repository](https://github.com/Juaaanits/web-app-security-waf-lab)**
+
+---
 
 ### 🏗️ Lab Architecture
 
