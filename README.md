@@ -112,17 +112,54 @@ The system separates frontend, API, ML inference, database, and object-storage r
 
 ---
 
-### 🛡️ Web Application Attack & Defense Lab
+# 🛡️ Web Application Security & WAF Lab
 
 **🚧 In Development**
 
-Application-security homelab focused on understanding attack and defensive controls using:
+A practical web application security homelab for understanding, testing, and documenting both offensive and defensive web-security controls.
 
-`SafeLine WAF` • `Kali Linux` • `Ubuntu Server` • `DVWA` • `TLS`
+### 🧰 Stack
 
-Planned validation includes controlled SQL injection testing, WAF detection, rate limiting, custom rules, security event logging, legitimate-traffic testing, and before/after security evidence.
+`SafeLine WAF` • `Kali Linux` • `Ubuntu Server` • `DVWA` • `Apache` • `MySQL` • `TLS`
 
-> Repository will be published once the first working and documented lab version is complete.
+### 🔬 Current Focus
+
+- Reverse-proxy and WAF deployment
+- TLS-protected application traffic
+- Controlled SQL injection and web-attack testing
+- WAF detection and blocking
+- Security event logging and analysis
+- Rate limiting and custom security rules
+- Legitimate-traffic validation
+- Direct-backend bypass testing
+- Security hardening
+- Before/after security evidence
+- Root-cause analysis and troubleshooting
+
+### 🏗️ Lab Architecture
+
+```text
+Kali Linux
+    │
+    │ HTTPS :8443
+    ▼
+SafeLine WAF
+    │
+    │ HTTP :8080
+    ▼
+Apache / DVWA
+    │
+    ▼
+MySQL
+```
+
+The lab also operates alongside an existing `k3s + Traefik` environment, providing hands-on experience with reverse-proxy and ingress conflicts in a shared homelab.
+
+### 🎯 Objective
+
+The goal is not simply to deploy a WAF, but to understand how web attacks travel through an application stack, how defensive controls detect and prevent them, and how to troubleshoot failures across the network, TLS, proxy, WAF, and application layers.
+
+> **Repository will be published once the first working and documented lab version is complete.**
 ---
 
 ## 🛠️ Technical Stack
