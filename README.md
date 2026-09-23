@@ -114,70 +114,14 @@ The system separates frontend, API, ML inference, database, and object-storage r
 
 ### 🛡️ [Web Application Security & WAF Lab](https://github.com/Juaaanits/web-app-security-waf-lab)
 
-A practical web application security homelab focused on understanding how attacks move through a web application stack and how defensive controls detect, block, and log malicious traffic.
+A practical web application security homelab focused on understanding and validating defensive controls using:
 
 `SafeLine WAF` • `Kali Linux` • `Ubuntu` • `DVWA` • `Apache` • `MySQL` • `TLS`
 
-**Focus areas:**
-
-- WAF deployment and reverse-proxy architecture
-- TLS termination and HTTPS traffic inspection
-- Controlled SQL injection and web-attack testing
-- WAF detection and blocking
-- Security event logging and analysis
-- Rate limiting and custom security rules
-- Legitimate-traffic validation
-- Direct-backend bypass testing
-- Security hardening
-- Root-cause analysis and troubleshooting
-
-### Architecture
-
-```text
-Kali Linux
-    │
-    │ HTTPS :8443
-    ▼
-SafeLine WAF
-    │
-    │ HTTP :8080
-    ▼
-Apache / DVWA
-    │
-    ▼
-MySQL
-```
-
-The lab runs alongside an existing `k3s + Traefik` environment, providing additional hands-on experience with reverse-proxy routing, TLS, listener conflicts, and troubleshooting in a shared homelab.
+The project covers WAF deployment, reverse-proxy architecture, controlled SQL injection and web-attack testing, security event logging, detection and blocking, legitimate-traffic validation, direct-backend bypass testing, and security hardening. It also documents troubleshooting and root-cause analysis across the network, TLS, proxy, WAF, and application layers.
 
 🔗 **[View Repository](https://github.com/Juaaanits/web-app-security-waf-lab)**
 
----
-
-### 🏗️ Lab Architecture
-
-```text
-Kali Linux
-    │
-    │ HTTPS :8443
-    ▼
-SafeLine WAF
-    │
-    │ HTTP :8080
-    ▼
-Apache / DVWA
-    │
-    ▼
-MySQL
-```
-
-The lab also operates alongside an existing `k3s + Traefik` environment, providing hands-on experience with reverse-proxy and ingress conflicts in a shared homelab.
-
-### 🎯 Objective
-
-The goal is not simply to deploy a WAF, but to understand how web attacks travel through an application stack, how defensive controls detect and prevent them, and how to troubleshoot failures across the network, TLS, proxy, WAF, and application layers.
-
-> **Repository will be published once the first working and documented lab version is complete.**
 ---
 
 ## 🛠️ Technical Stack
