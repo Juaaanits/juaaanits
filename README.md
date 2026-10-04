@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>System Engineer | Aspiring DevSecOps & Cloud Security Engineer</strong>
+  <strong>Aspiring DevSecOps & Cloud Security Engineer</strong>
 </p>
 
 <p align="center">
