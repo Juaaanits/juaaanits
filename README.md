@@ -1,268 +1,164 @@
-<h1 align="center">
-  Hi, I'm Juanito M. Ramos II 👋
-</h1>
+<h1 align="center">Hi, I'm Juanito M. Ramos II 👋</h1>
 
 <p align="center">
-  <strong>Aspiring DevSecOps & Cloud Security Engineer</strong>
+  <strong>Cloud &amp; DevOps • DevSecOps • Applied AI</strong>
 </p>
 
 <p align="center">
-  AWS • Azure • Kubernetes • Terraform • Docker • Linux • CI/CD • Observability
+  Building skills in reliable infrastructure, secure delivery, and AI systems.
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://juanito-tech-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-1E4690?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore my portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/juanitoramos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://medium.com/@juanitoramos113">
+    <img src="https://img.shields.io/badge/Technical_Writing-11161F?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Read my technical writing on Medium" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/juanitoramos/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://juanito-tech-portfolio-website.vercel.app/">Projects, experience, certifications, and my learning roadmap →</a>
+</p>
 
-</div>
+## About me
 
----
+I'm building toward a **Cloud, DevOps, or DevSecOps engineering** role, with a longer-term interest in **MLOps and AI infrastructure**.
 
-## 👨‍💻 About Me
+Previously, I worked as a **System Engineer at Solvento Philippines**, supporting Azure infrastructure, monitoring, application security, and troubleshooting. My background also includes freelance full-stack development and AI/ML application work, helping me connect infrastructure decisions to the applications they support.
 
-I'm a System Engineer building toward a career in **DevSecOps and Cloud Security**, with hands-on projects across cloud infrastructure, Kubernetes, Infrastructure as Code, CI/CD security, observability, backend systems, and application security.
+My current focus is hands-on practice with AWS, Azure, Kubernetes, Terraform, CI/CD, observability, and cloud security. I document setup steps, failures, tradeoffs, and verification so I can explain how a system behaves and improve it with confidence.
 
-My current focus is understanding how systems are **built, deployed, monitored, secured, broken, troubleshot, and improved** rather than simply completing tool-based tutorials.
+**Open to opportunities in Cloud, DevOps, and DevSecOps engineering.**
 
-I also have a background in backend development, AI/ML engineering, and database-driven applications, which helps me understand the applications and services that cloud and security engineering ultimately support.
+## Selected engineering projects
 
-### 🎯 Career Direction
+### [K3s DevSecOps & Observability Homelab](https://github.com/Juaaanits/homelab)
 
-> Build secure, observable, automated cloud-native platforms as a **DevSecOps / Cloud Security Engineer**.
+A Kubernetes homelab on repurposed hardware for practicing networking, persistent storage, application metrics, alerting, controlled failure testing, and troubleshooting.
 
----
+**Stack:** k3s · Prometheus · Grafana · Alertmanager · node-exporter · Traefik · Python
 
-## 🔐 Current DevSecOps & Cloud Security Focus
+**Planned extensions:** Helm, GitHub Actions, Trivy, GHCR, Argo CD, Kyverno, Sealed Secrets, and Terraform.
 
-* ☸️ Kubernetes and k3s platform engineering
-* ☁️ AWS and Azure cloud infrastructure
-* 🏗️ Infrastructure as Code with Terraform
-* 🔄 CI/CD and GitOps
-* 🔎 Container and dependency vulnerability management
-* 🔑 Secrets management and workload hardening
-* 📊 Monitoring, alerting, and observability
-* 🛡️ Application and cloud security fundamentals
-* 🐧 Linux systems administration and troubleshooting
+### [Secure Container Supply Chain Pipeline](https://github.com/Juaaanits/security-container-delivery-pipeline)
 
----
+A DevSecOps workflow combining secret detection, container builds, vulnerability scanning, severity-based security gates, SARIF reporting, remediation validation, and notifications.
 
-## 🚀 Featured Engineering Projects
+**Stack:** GitHub Actions · Docker · detect-secrets · Docker Scout · SARIF · Bash
 
-### ☸️ [K3s DevSecOps & Observability Homelab](https://github.com/Juaaanits/homelab)
+### [Secure AWS Static Web Platform with Terraform](https://github.com/Juaaanits/Automated-AWS-Web-Hosting-with-Terraform)
 
-A Kubernetes platform engineering homelab running on repurposed hardware with:
+An Infrastructure as Code project for AWS static web hosting. Continued work focuses on state management, infrastructure security scanning, IAM, and deployment automation.
 
-`k3s` • `Prometheus` • `Grafana` • `Alertmanager` • `node-exporter` • `Traefik` • `Python`
+**Stack:** Terraform · Amazon S3 · CloudFront · Route 53 · ACM · CodePipeline · CodeBuild
 
-Current work includes Kubernetes networking, persistent storage, custom application metrics, alerting, controlled failure testing, workload hardening, and troubleshooting.
+### [AWS Infrastructure with Terraform & GitLab CI/CD](https://gitlab.com/juanitoramos113/aws-infrastructure-terraform-ci-cd/)
 
-**Next phases:** Helm → GitHub Actions → Trivy → GHCR → Argo CD → Kyverno → Sealed Secrets → Terraform
+An **initial scaffold** combining an AWS Terraform provider configuration with a GitLab pipeline intended for initialization, saved plans, and manually triggered deployment. Includes an architecture concept and Git migration notes.
 
-🔗 **[View Repository](https://github.com/Juaaanits/homelab)**
+**Status:** In progress. AWS resources, authentication, remote state, and pipeline fixes remain to be implemented.
 
----
+### [.NET Backend Reliability, DevSecOps & Azure Lab](https://github.com/Juaaanits/sakenny-backend-qa-devsecops-cloud-lab)
 
-### 🔐 [Secure Container Supply Chain Pipeline](https://github.com/Juaaanits/security-container-delivery-pipeline)
+An engineering extension of an MIT-licensed .NET 8 backend, combining API and database validation, automated tests, security scanning, containerization, observability, and cloud infrastructure work.
 
-A practical DevSecOps workflow demonstrating:
+**Stack:** .NET 8 · SQL Server · Docker · xUnit · Postman/Newman · CodeQL · Trivy · Dependabot · Terraform · Azure
 
-`GitHub Actions` • `Docker` • `detect-secrets` • `Docker Scout` • `SARIF` • `Bash`
+### [CerebraSense Cloud ML Inference Platform](https://github.com/Juaaanits/Cerebrasense-Web)
 
-Includes secret detection, container builds, vulnerability scanning, severity-based security gates, security reporting, remediation validation, and automated notifications.
+A cloud-deployed MRI classification application separating frontend, API, ML inference, database, and object-storage responsibilities, with prediction history and calibrated model results.
 
-🔗 **[View Repository](https://github.com/Juaaanits/security-container-delivery-pipeline)**
+**Stack:** Astro · FastAPI · PyTorch · Supabase · PostgreSQL · Vercel · Railway
 
----
+### [Web Application Security & WAF Lab](https://github.com/Juaaanits/web-app-security-waf-lab)
 
-### ☁️ [Secure AWS Static Web Platform with Terraform](https://github.com/Juaaanits/Automated-AWS-Web-Hosting-with-Terraform)
+A controlled lab for WAF deployment, reverse-proxy configuration, attack simulation, security-event analysis, legitimate-traffic validation, and direct-backend bypass testing. Documents troubleshooting across TLS, networking, proxy, WAF, and application layers.
 
-Infrastructure as Code project provisioning a secure AWS static web architecture using:
+**Stack:** SafeLine WAF · Kali Linux · Ubuntu · DVWA · Apache · MySQL · TLS
 
-`Terraform` • `Amazon S3` • `CloudFront` • `Route 53` • `ACM` • `CodePipeline` • `CodeBuild`
+**[Explore my full project collection on the portfolio →](https://juanito-tech-portfolio-website.vercel.app/)**
 
-Current improvements focus on Terraform state management, infrastructure security scanning, IAM, and deployment automation.
+## Technical toolkit
 
-🔗 **[View Repository](https://github.com/Juaaanits/Automated-AWS-Web-Hosting-with-Terraform)**
+Tools I use across professional experience, projects, and ongoing study:
 
----
+| Area | Tools and technologies |
+| --- | --- |
+| Cloud | AWS, Microsoft Azure |
+| Infrastructure & delivery | Terraform, Docker, Kubernetes, k3s, GitHub Actions, GitLab CI/CD, Linux, Bash, Git, Ansible |
+| Security | Secret scanning, vulnerability scanning, SAST, container security, IAM, TLS, WAF, Kubernetes secrets |
+| Observability | Prometheus, Grafana, Alertmanager, node-exporter, custom metrics |
+| Development | Python, JavaScript, TypeScript, PHP, SQL, Java, C++ |
+| Backend & web | FastAPI, Flask, Node.js, Express.js, NestJS, Laravel, React, Vue, Astro |
+| Data platforms | PostgreSQL, SQL Server, MySQL, MongoDB, Supabase, Firebase |
+| AI & ML | PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Azure AI, LLM integration, OCR workflows |
 
-### 🧪 [.NET Backend Reliability, DevSecOps & Azure Lab](https://github.com/Juaaanits/sakenny-backend-qa-devsecops-cloud-lab)
+## Certifications
 
-Engineering extension of an MIT-licensed .NET 8 backend focused on:
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/efc64fee-ec19-44f4-9421-34de4e3e233f/public_url) — AWS · September 2026
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/6040341d-81e5-42e5-8423-9c46ded2abd6/public_url) — AWS · August 2026
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/juanitoramos-1850/credentials/d59ecad657d00436) — Microsoft · October 2025
+- [OCI 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E88D6AF2B97608378A11AD018C741F892330BAC90843DCAE06A7A1BF852E37C) — Oracle · October 2025
+- [OCI 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6B5A3CF964555AD5A35C13048E244429DFA56F519E38EF400E63E91544CF9266) — Oracle · October 2025
+- [Data Engineer Associate](https://www.datacamp.com/certificate/DEA0012027542937) — DataCamp · January 2026
+- [Apache Airflow 3 Fundamentals](https://www.credly.com/badges/e9e24783-4f77-4348-93b3-5a0465cfed4f/public_url) — Astronomer · July 2025
 
-`.NET 8` • `SQL Server` • `Docker` • `xUnit` • `Postman/Newman` • `CodeQL` • `Trivy` • `Dependabot` • `Terraform` • `Azure`
+## Selected technical training
 
-The project combines backend testing, QA, vulnerability scanning, database validation, containerization, observability, and cloud infrastructure work.
-
-🔗 **[View Repository](https://github.com/Juaaanits/sakenny-backend-qa-devsecops-cloud-lab)**
-
----
-
-### 🧠 [CerebraSense Cloud ML Inference Platform](https://github.com/Juaaanits/Cerebrasense-Web)
-
-Cloud-deployed MRI classification application using:
-
-`Astro` • `FastAPI` • `PyTorch` • `Supabase` • `PostgreSQL` • `Vercel` • `Railway`
-
-The system separates frontend, API, ML inference, database, and object-storage responsibilities while maintaining prediction history and calibrated model results.
-
-🔗 **[View Repository](https://github.com/Juaaanits/Cerebrasense-Web)**
-
----
-
-### 🛡️ [Web Application Security & WAF Lab](https://github.com/Juaaanits/web-app-security-waf-lab)
-
-A practical web application security homelab focused on understanding and validating defensive controls using:
-
-`SafeLine WAF` • `Kali Linux` • `Ubuntu` • `DVWA` • `Apache` • `MySQL` • `TLS`
-
-The project covers WAF deployment, reverse-proxy architecture, controlled SQL injection and web-attack testing, security event logging, detection and blocking, legitimate-traffic validation, direct-backend bypass testing, and security hardening. It also documents troubleshooting and root-cause analysis across the network, TLS, proxy, WAF, and application layers.
-
-🔗 **[View Repository](https://github.com/Juaaanits/web-app-security-waf-lab)**
-
----
-
-## 🛠️ Technical Stack
-
-### ☁️ Cloud
-
-AWS • Microsoft Azure
-
-### 🏗️ Infrastructure & DevOps
-
-Terraform • Docker • Kubernetes • k3s • GitHub Actions • Linux • Bash • Git • Ansible
-
-### 🔐 DevSecOps & Security
-
-Secret Scanning • Vulnerability Scanning • SAST • Container Security • Kubernetes Secrets • TLS • WAF • IAM • Security Hardening
-
-### 📊 Observability
-
-Prometheus • Grafana • Alertmanager • node-exporter • Custom Metrics
-
-### 💻 Development
-
-Python • JavaScript • TypeScript • PHP • SQL • Java • C++
-
-### 🌐 Backend & Web
-
-FastAPI • Flask • Node.js • Express.js • NestJS • Laravel • React • Vue • Astro
-
-### 🗄️ Databases
-
-PostgreSQL • SQL Server • MySQL • MongoDB • Supabase • Firebase
-
-### 🤖 AI / Machine Learning
-
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Azure AI • LLM Integration • OCR Pipelines
-
----
-
-## 🏅 Certifications
-
-- **AWS Certified Cloud Practitioner** — Amazon Web Services, Sep 2026
-- **AWS Certified AI Practitioner** — Amazon Web Services, Aug 2026
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft, Oct 2025
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — Oracle, Oct 2025
-- **Data Engineer Associate** — DataCamp, Jan 2026
-
----
-
-## 📚 Selected Technical Training
-
-- **Google Cybersecurity Certificate** — Google
-- **DevOps Essentials** — Google Cloud Skills Boost
-- **CyberOps Associate** — Cisco Networking Academy
-- **DevNet Associate** — Cisco Networking Academy
-- **Enterprise Networking, Security, and Automation** — Cisco Networking Academy
-- **Switching and Routing Essentials** — Cisco Networking Academy
-- **Gremlin Enterprise Chaos Engineering Certification** — Gremlin
-- **AWS Solutions Architecture Job Simulation** — Forage
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/34862e75-717d-4d8e-b80f-3151121aa406/public_url) — Google / Coursera
+- [DevOps Essentials](https://www.skills.google/public_profiles/12e2f4fd-77a0-48ad-9c4a-5fff8769f17f/badges/26663403) — Google Cloud Skills Boost
+- CyberOps Associate — Cisco Networking Academy
+- DevNet Associate — Cisco Networking Academy
+- Enterprise Networking, Security, and Automation — Cisco Networking Academy
+- Switching, Routing, and Wireless Essentials — Cisco Networking Academy
+- Gremlin Enterprise Chaos Engineering Certification — Gremlin
+- AWS Solutions Architecture Job Simulation — Forage
+- [AWS AI Practitioner Challenge](https://www.udacity.com/certificate/e/e5e28a76-326b-11f1-9b57-f3e934059b33) — Udacity / AWS
 
 <details>
-<summary><strong>Additional Training</strong></summary>
-
-<br>
+<summary><strong>Additional learning</strong></summary>
 
 - Google IT Support
 - Data Analysis with Python — freeCodeCamp
-- AWS AI Practitioner Challenge — Udacity
 - Introduction to Cybersecurity — Cisco
+- Internal Kubernetes training — Solvento
 
 </details>
 
----
+## What I'm learning now
 
-## 📚 Current Learning Roadmap
+- **AWS SAA-C03 preparation:** *Ultimate AWS Certified Solutions Architect Associate 2026* by Stephane Maarek on Udemy — ongoing.
+- **KodeKloud Engineer:** hands-on DevOps, AWS, Azure, and MLOps practice.
+- **[NextWork](https://github.com/Juaaanits/Devops-Cloud-Projects-Documentation):** cloud and DevOps learning, with documentation being developed.
+- **[DataCamp](https://github.com/Juaaanits/DataCamp):** continued data engineering and analysis practice.
+- **[TryHackMe](https://tryhackme.com/p/juanitoramos113):** hands-on security learning.
+- **[roadmap.sh activities](https://github.com/Juaaanits/devops-activities):** structured DevOps practice.
 
-```text
-AWS Solutions Architecture
-        ↓
-Security Fundamentals
-        ↓
-Azure Administration
-        ↓
-Terraform / Infrastructure as Code
-        ↓
-Application Security
-        ↓
-Kubernetes Administration
-        ↓
-Cloud & Kubernetes Security
-```
+### Career direction
 
-### Planned Certification Path
+AWS Solutions Architect Associate preparation → Cloud / DevOps engineering → secure Kubernetes platforms → MLOps → AI infrastructure or forward-deployed engineering.
 
-`AWS SAA` → `Security+` → `AZ-104` → `Terraform Associate` → `CKA`
+Other certification goals include **Security+, AZ-104, Terraform Associate, and CKA**, supported by practical projects. Longer term, I hope to pursue graduate study in AI at the University of the Philippines.
 
-With hands-on security learning through **TryHackMe** and continued DevSecOps project development.
+## Technical writing
 
----
+I use documentation to make setups reproducible and capture troubleshooting lessons.
 
-## 🧭 Engineering Philosophy
+- [Vertica DB on Kubernetes — Installation Steps](https://medium.com/@juanitoramos113/vertica-db-on-kubernetes-installation-steps-5ee952159b22)
+- [More writing on Medium](https://medium.com/@juanitoramos113)
 
-I try to avoid treating a successful deployment as proof that I understand a system.
+## How I approach engineering
 
-For every project, I aim to understand:
+**Build → Deploy → Observe → Test failures → Troubleshoot → Secure → Validate → Improve**
 
-```text
-Build
-  ↓
-Deploy
-  ↓
-Observe
-  ↓
-Break
-  ↓
-Troubleshoot
-  ↓
-Secure
-  ↓
-Validate
-  ↓
-Improve
-```
+For each project, I aim to explain the architecture, verify expected behavior, investigate failures, and document the tradeoffs behind improvements.
 
-I document failures, root causes, security decisions, tradeoffs, and validation steps because understanding **why something works or fails** is more valuable than simply making it run.
-
----
-
-## 📌 Current Goals
-
-* Transition into a **DevOps, DevSecOps, Cloud, or Cloud Security Engineering** role
-* Earn AWS Solutions Architect Associate
-* Deepen AWS and Azure infrastructure experience
-* Strengthen Kubernetes and Terraform proficiency
-* Build practical cloud and application security skills
-* Develop production-oriented GitOps and software supply chain security experience
-* Continue building projects that demonstrate real troubleshooting and engineering decisions
-
----
-
-<div align="center">
-
-### Building toward secure cloud-native infrastructure, one failure at a time.
-
-</div>
+<p align="center">
+  <a href="https://juanito-tech-portfolio-website.vercel.app/">Explore my portfolio</a> ·
+  <a href="https://www.linkedin.com/in/juanitoramos/">Connect on LinkedIn</a> ·
+  <a href="https://medium.com/@juanitoramos113">Read my writing</a>
+</p>
