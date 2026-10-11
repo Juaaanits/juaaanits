@@ -34,6 +34,13 @@ My current focus is hands-on practice with AWS, Azure, Kubernetes, Terraform, CI
 
 **Open to opportunities in Cloud, DevOps, and DevSecOps engineering.**
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Juaaanits&theme=dark&hide_border=true" />
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Juaaanits&theme=default&hide_border=true" />
+  </picture>
+</p>
+
 ## Selected engineering projects
 
 ### [K3s DevSecOps & Observability Homelab](https://github.com/Juaaanits/homelab)
