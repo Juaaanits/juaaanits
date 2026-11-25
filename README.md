@@ -28,7 +28,7 @@
 
 I'm building toward a **Cloud, DevOps, or DevSecOps engineering** role, with a longer-term interest in **MLOps and AI infrastructure**.
 
-Previously, I worked as a **System Engineer at Solvento Philippines**, supporting Azure infrastructure, monitoring, application security, and troubleshooting. My background also includes freelance full-stack development and AI/ML application work, helping me connect infrastructure decisions to the applications they support.
+Previously, I worked as a **System Engineer**, supporting Azure infrastructure, monitoring, application security, and troubleshooting. My background also includes freelance full-stack development and AI/ML application work, helping me connect infrastructure decisions to the applications they support.
 
 My current focus is hands-on practice with AWS, Azure, Kubernetes, Terraform, CI/CD, observability, and cloud security. I document setup steps, failures, tradeoffs, and verification so I can explain how a system behaves and improve it with confidence.
 
